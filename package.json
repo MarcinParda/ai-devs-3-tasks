@@ -1,0 +1,21 @@
+{
+  "name": "ai-devs-3-tasks",
+  "version": "1.0.0",
+  "description": "Repository for AI Devs 3 course tasks",
+  "main": "index.js",
+  "scripts": {
+    "poligon": "bun src/tasks/poligon.ts"
+  },
+  "keywords": [
+    "ai",
+    "devs",
+    "course",
+    "exercises"
+  ],
+  "author": "Marcin Parda",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^22.7.7"
+  }
+}
