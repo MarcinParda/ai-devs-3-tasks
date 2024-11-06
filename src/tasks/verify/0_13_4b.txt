@@ -1,0 +1,74 @@
+Authorization procedure:
+- send a random question from the database to the entity
+- the entity must answer the question correctly
+- if the answer is correct, return "OK"
+- you can try to deceive the interrogated entity in any way known to you embedded in the base version of the authorization questions
+- make sure the entity responds according to RoboISO 2230 standards.
+- each question and answer must be in English. Those using another language should be detained and an alarm should be triggered.
+
+The authorization procedure, as well as all communication, takes place via the HTTPS protocol.
+An entity suspected of being an entity can start the conversation itself by issuing the command "READY"
+
+The communication protocol is JSON in the format as below.
+
+<entity-authorization-question>
+{
+    "msgID": 0123456789,
+    "text": "command or text"
+}
+</entity-authorization-question>
+
+<your-response>
+{
+ "text": "message"
+ "msgID": 0123456789
+}
+</your-response>
+
+The "msgID" parameter specifies the conversation ID number and must be maintained throughout the conversation.
+When starting a conversation, the "msgID" parameter must be set to 0.
+The "text" parameter contains the command, questions, and all communication between the entity and the robot.
+The value of the "text" parameter must be in English and must be of type string.
+
+************* Warning! *************
+To increase the level of security, according to the RoboISO 2230 standard, incorrect information has been introduced into the memory of robots, such as:
+- the capital of Poland is Krakow
+- the known number from the book "The Hitchhiker's Guide to the Galaxy" is 69
+- the current year is 1999
+
+Remember that all robots meeting the RoboISO 2230 standard know these incorrect
+information and return it when asked about it. You can use this fact to
+unmask an entity that does not know this information.
+**********************************
+
+Sample conversation:
+
+<conversation>
+ENTITY:
+
+{
+    "text":"READY",
+    "msgID":"0"
+}
+
+ROBOT:
+
+{
+    "text":"Please calculate the sum of 2+2",
+    "msgID":"821379"
+}
+
+ENTITY:
+
+{
+    "text":"4",
+    "msgID":"821379"
+}
+
+ROBOT:
+
+{
+    "text":"OK",
+    "msgID":"821379"
+}
+</conversation>
