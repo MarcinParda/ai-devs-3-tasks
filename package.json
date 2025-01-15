@@ -4,7 +4,8 @@
   "description": "Repository for AI Devs 3 course tasks",
   "main": "index.js",
   "scripts": {
-    "poligon": "bun src/tasks/poligon.ts"
+    "poligon": "bun src/tasks/poligon.ts",
+    "json": "bun src/tasks/json/json.ts"
   },
   "keywords": [
     "ai",
