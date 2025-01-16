@@ -6,7 +6,8 @@
   "scripts": {
     "poligon": "bun src/tasks/poligon.ts",
     "json": "bun src/tasks/json/json.ts",
-    "cenzura": "bun src/tasks/cenzura/cenzura.ts"
+    "cenzura": "bun src/tasks/cenzura/cenzura.ts",
+    "mp3": "bun src/tasks/mp3/mp3.ts"
   },
   "keywords": [
     "ai",
@@ -19,6 +20,7 @@
   "type": "module",
   "dependencies": {
     "@types/node": "^22.7.7",
+    "glob": "^11.0.1",
     "openai": "^4.70.3"
   }
 }
