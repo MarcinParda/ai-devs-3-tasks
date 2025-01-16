@@ -4,7 +4,7 @@ import { openai } from './openai';
 export async function chatComplition({
   systemPrompt,
   userPrompt,
-  model = 'gpt-3.5-turbo',
+  model = 'gpt-4',
   maxTokens = 256,
 }: {
   systemPrompt: string;

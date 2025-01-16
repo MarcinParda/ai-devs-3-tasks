@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "poligon": "bun src/tasks/poligon.ts",
-    "json": "bun src/tasks/json/json.ts"
+    "json": "bun src/tasks/json/json.ts",
+    "cenzura": "bun src/tasks/cenzura/cenzura.ts"
   },
   "keywords": [
     "ai",

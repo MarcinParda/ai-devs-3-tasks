@@ -8,7 +8,7 @@ export interface AnswerResponse {
 export async function sendJsonAnswer(
   taskId: string,
   answer: string | unknown[] | Record<string, any>,
-  apiAnswerUrl = `https://poligon.aidevs.pl/verify`
+  apiAnswerUrl = `https://centrala.ag3nts.org/report`
 ) {
   const body = JSON.stringify({ answer, task: taskId, apikey: tasksApiKey });
   console.log('Sending json answer:', body);
