@@ -7,7 +7,8 @@
     "poligon": "bun src/tasks/poligon.ts",
     "json": "bun src/tasks/json/json.ts",
     "cenzura": "bun src/tasks/cenzura/cenzura.ts",
-    "mp3": "bun src/tasks/mp3/mp3.ts"
+    "mp3": "bun src/tasks/mp3/mp3.ts",
+    "city": "bun src/tasks/city/city.ts"
   },
   "keywords": [
     "ai",
