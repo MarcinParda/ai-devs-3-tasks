@@ -59,11 +59,11 @@ Próby transmisji materii
 
 Jednym z bardziej ambitnych eksperymentów była próba transmisji materii – w tym przypadku owocu. Choć przesył wydawał się sukcesem, przy dokładniejszym zbadaniu okazało się, że owoc dotarł na miejsce bez pestek, które zniknęły podczas procesu przesyłu. Co ciekawe, pestek nigdy nie odnaleziono, co sugeruje, że transmisja wciąż wymaga udoskonalenia, by zapewnić pełną integralność przesyłanych obiektów.
 
-![](i/fruit01.png)
+Zdjęcie truskawki z pestkami przed transmisją.
 
 Owoc przed transportem w czasie
 
-![](i/fruit02.png)
+Zdjęcie truskawki bez pestek po transmisji.
 
 Owoc pozbawiony pestek po transporcie
 

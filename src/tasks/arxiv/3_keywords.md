@@ -1,0 +1,27 @@
+- **prof. Andrzej Maj**: Wydział Matematyki i Informatyki, Uniwersytet Jagielloński
+- **duże modele językowe (LLM)**: wykorzystanie w transmisji obiektów
+- **AGI (Artificial General Intelligence)**: rozwój modelu AGI BNW-01
+- **temporalna transmisja**: przesył danych, materii
+- **stabilność transmisji**: korekcja błędów, osiągnięcia do 99,98%
+- **hipotetyczna podróż w czasie**: badania nad podróżami w czasie
+- **antymateria**: właściwości umożliwiające manipulację czasoprzestrzenią
+- **ekologia**: potencjalny wpływ podróży w czasie na ochronę środowiska
+- **przesył danych multimedialnych**: eksperymenty z obrazami
+- **testy z użyciem materii**: przesył owoców, zmiany w procesie
+- **technologia RAG**: zastosowanie zewnętrznej bazy danych do przesyłania obiektów
+- **fuzje obiektów**: nieoczekiwane efekty przy przesyłach wielu obiektów
+- **problem małego okna kontekstowego**: ograniczenia LLM w transmisji
+- **incydent w laboratorium**: nieautoryzowane testy i ich konsekwencje
+- **nowe procedury bezpieczeństwa**: biometryczne zamki, zakazy wprowadzania przedmiotów do laboratorium
+- **eksperymenty z żywymi organizmami**: planowane badania nad transportem
+- **dół AGI - BNW-01**: zapowiedź premierowego modelu AGI
+- **większe obiekty**: sukcesy i wyzwania w przesyłaniu dużych przedmiotów
+
+- *Linki*:
+  - [rafal_dyktafon.mp3](i/rafal_dyktafon.mp3): plik dźwiękowy związany z incydentem w laboratorium.
+  - ![](i/rynek.png): Oryginalne zdjęcie z eksperymentu przesyłania danych multimedialnych.
+  - ![](i/rynek_glitch.png): Uszkodzone zdjęcie po transmisji.
+  - ![](i/fruit01.png): Owoc przed transportem w czasie.
+  - ![](i/fruit02.png): Owoc pozbawiony pestek po transporcie.
+  - ![](i/strangefruit.png): Fuzja kodu genetycznego dwóch transportowanych owoców.
+  - ![](i/resztki.png): Resztki jedzenia znalezione w pobliżu komory temporalnej.

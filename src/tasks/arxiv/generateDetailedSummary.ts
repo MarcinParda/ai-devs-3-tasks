@@ -2,7 +2,7 @@ import type {
   ChatCompletion,
   ChatCompletionMessageParam,
 } from 'openai/resources/chat/completions';
-import { OpenAIService } from './OpenAIService';
+import { OpenAIService } from '../../utils/summary/OpenAIService';
 import { readFile, writeFile } from 'fs/promises';
 import { join } from 'path';
 
@@ -213,8 +213,8 @@ Let's start.`,
 /**
  * Generates a detailed summary by orchestrating all processing steps, including embedding relevant links and images within the content.
  */
-async function generateDetailedSummary(
-  title = 'AI_devs 3, Lekcja 1, Moduł 1 — Interakcja z dużym modelem językowym',
+export async function generateDetailedSummary(
+  title = 'AI_devs 3, Lekcja 1, Moduł 1 — Interakcja z dużym modelem językowym'
 ) {
   const articlePath = join(__dirname, 'article.md');
   const article = await readFile(articlePath, 'utf-8');

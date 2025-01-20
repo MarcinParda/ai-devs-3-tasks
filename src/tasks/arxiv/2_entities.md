@@ -1,0 +1,14 @@
+- prof. Andrzej Maj: Autor dokumentu, prowadzący badania na Uniwersytecie Jagiellońskim w Krakowie.
+- Wydział Matematyki i Informatyki: Jednostka naukowa, w której prowadzone są badania.
+- Uniwersytet Jagielloński: Uczelnia, w której odbywają się badania.
+- Artificial General Intelligence (AGI): Koncepcja inteligencji ogólnej, którą zespół stara się stworzyć.
+- BNW-01: Planowany model AGI, mający być wydany w pierwszym kwartale 2024 roku.
+- Rafał Bomba: Laborant, który zainicjował incydent związany z nieautoryzowanym przeprowadzeniem eksperymentu.
+- Grudziądz: Miejsce do którego Rafał Bomba ustawił parametry docelowe swojego nieautoryzowanego eksperymentu.
+- Rafał Musk: Nowy laborant, który wniósł istotne innowacje do zespołu badawczego.
+- Oh.i/o University: Uczelnia, z której pochodzi dokumentacja dotycząca autonomicznych agentów.
+- Harnaś Jasne Pełne: Marka piwa, która była przedmiotem analizy podczas incydentu.
+- System Retrieval Augmented Generation (RAG): Nowa metoda wcześniej stosowana w badaniach nad przesyłem obiektów. 
+- Zespoły badawcze: Grupa ludzi pracujących nad projektami związanymi z badaniami naukowymi.
+
+- Keywords: podróże w czasie, przyszłość, ekologia, AI.

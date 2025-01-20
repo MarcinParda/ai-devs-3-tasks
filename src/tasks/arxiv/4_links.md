@@ -1,0 +1,8 @@
+- [Link to document](https://doi.org/10.1016/j.nuclphysrev.2024.01.0021): Advances in Antimatter Research. A comprehensive study discussing the implications of antimatter on temporal transmission.
+- ![Image of a market](i/rynek.png): Original photo taken at the market showing the sunset.
+- ![Image of glitch in photo](i/rynek_glitch.png): An example of damage seen in the time-transmitted photo.
+- ![Image of fruit before transport](i/fruit01.png): Image of the fruit prior to temporal transport.
+- ![Image of fruit after transport](i/fruit02.png): Image of the fruit post-transport, missing seeds.
+- ![Image of fused fruit](i/strangefruit.png): Illustration of genetic fusion occurring during multi-object transmission.
+- ![Image of leftovers](i/resztki.png): Leftover food discovered near the temporal chamber after the incident involving Rafał Bomba.
+- [Audio recording](i/rafal_dyktafon.mp3): A recorded sound file found, related to the incident with Rafał Bomba.
