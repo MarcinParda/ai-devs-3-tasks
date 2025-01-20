@@ -1,7 +1,7 @@
 import { ChatCompletionMessageParam } from 'openai/src/resources/index.js';
 import { openai } from './openai';
 
-export async function chatComplition({
+export async function chatCompletion({
   systemPrompt,
   userPrompt,
   model = 'gpt-4',
