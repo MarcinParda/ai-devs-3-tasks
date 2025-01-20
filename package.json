@@ -10,7 +10,8 @@
     "mp3": "bun src/tasks/mp3/mp3.ts",
     "city": "bun src/tasks/city/city.ts",
     "robotid": "bun src/tasks/robotid/robotid.ts",
-    "kategorie": "bun src/tasks/kategorie/kategorie.ts"
+    "kategorie": "bun src/tasks/kategorie/kategorie.ts",
+    "arxiv": "bun src/tasks/arxiv/arxiv.ts"
   },
   "keywords": [
     "ai",
@@ -22,8 +23,13 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@microsoft/tiktokenizer": "^1.0.9",
+    "@types/jsdom": "^21.1.7",
     "@types/node": "^22.7.7",
+    "@types/turndown": "^5.0.5",
     "glob": "^11.0.1",
-    "openai": "^4.70.3"
+    "jsdom": "^26.0.0",
+    "openai": "^4.70.3",
+    "turndown": "^7.2.0"
   }
 }

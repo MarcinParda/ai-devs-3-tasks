@@ -1,14 +1,17 @@
 import fs from 'fs';
 import { openai } from './openai';
 
-export async function recognizeImage(imagePath: string, userPrompt: string): Promise<string> {
+export async function recognizeImage(
+  imagePath: string,
+  userPrompt: string
+): Promise<string> {
   // Read the image file and convert it to base64
   const imageBuffer = fs.readFileSync(imagePath);
   const base64Image = imageBuffer.toString('base64');
 
   try {
     const response = await openai.chat.completions.create({
-      model: 'gpt-4o',
+      model: 'gpt-4o-mini',
       messages: [
         {
           role: 'user',

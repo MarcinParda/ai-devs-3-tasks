@@ -1,0 +1,16 @@
+- Midjourney: A generative AI tool for creating images, particularly popular among designers. 
+- Stable Diffusion: Another generative AI similar to Midjourney, used for image creation.
+- picthing: A tool for background removal from images, notable for its enhanced quality due to generative AI technology. Created by Theo from the channel `t3.gg`.
+- Pieter Levels: Known for multiple projects leveraging AI for specific problems, including:
+  - PhotoAI: A tool that addresses specific image-related issues.
+  - InteriorAI: Focuses on interior design visualizations.
+- Flux: A model that works on generating image elements like text and complex visuals, still with some limitations in result consistency.
+- ComfyUI: A platform providing high control over generated graphics, enabling detailed customization and style consistency using prompts.
+- Replicate: A service providing access to various AI models through an API for image generation.
+- Leonardo.ai: Another platform offering functionality in image generation.
+- RunPod: A service that allows self-hosting of AI models with GPU access.
+- htmlcsstoimage: A tool allowing the generation of images from HTML templates via API, making it easy to switch texts and images dynamically.
+- Runway: A tool for converting graphical assets into video forms.
+- Heygen: AI solution for generating avatars or personalizing video content.
+- Kling AI: Another platform for video animation from graphics.
+- Vision Language Models: A technology for enhanced understanding and generation of images based on language inputs.

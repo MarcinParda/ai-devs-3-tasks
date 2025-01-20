@@ -1,0 +1,13 @@
+- Generatywne AI: możliwości w przetwarzaniu tekstu, audio, interpretowaniu obrazu, generowaniu grafik
+- Narzędzia graficzne: [Midjourney](tools/Midjourney.md), [Stable Diffusion](glossary/Stable%20Diffusion.md), [picthing](https://pic.ping.gg/), [PhotoAI](https://photoai.com/), [InteriorAI](https://interiorai.com)
+- Przykłady projektów: Theo — t3.gg, Pieter Levels, efekty statystyk użyteczności
+- Trendy w generatywnej grafice: porównanie AI-generowanych obrazów 2022 vs 2024, skalowanie obrazu, usuwanie tła, generowanie spójnych obrazów
+- Ograniczenia modeli: trudności w generowaniu tekstu, dłoni, zębów, lustrzanych odbić; złożoność promptów
+- Modelowanie API: dostępność modeli przez API, [Replicate](tools/Replicate.md), [Leonardo.ai](https://leonardo.ai/), [RunPod](https://blog.runpod.io/how-to-get-stable-diffusion-set-up-with-comfyui-on-runpod/)
+- Szablony do generowania grafik: marketing, okładki, responsywność, [htmlcsstoimage](https://htmlcsstoimage.com), [Vision Language Models](glossary/Vision%20Language%20Models.md)
+- Proces programowania z generatywną grafiką: automatyzacja, narzędzia, efektywność
+- Techniki projektowania promptów: szczegółowość, eksperymentowanie z promptami, word associations, meta prompt
+- Przykłady stylów grafik: różne koncepcje, spójność, użycie referencyjnych postaci, generowanie wizualizacji
+- Zastosowania w marketingu: automatyzacja graficzna, dynamiczne generowanie obrazów, personalizacja treści
+- Narzędzia do eksploracji: [ComfyUI](ComfyUI), [Runway](https://runwayml.com/), [Heygen](https://www.heygen.com/), [Kling AI](https://klingai.com/)
+- Film: instruktaż dotyczący pracy z ComfyUI.

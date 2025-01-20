@@ -1,0 +1,13 @@
+- Generatywne AI ma duże możliwości w zakresie przetwarzania grafiki, które są relevantne dla programistów, projektantów oraz twórców ilustracji.
+- Narzędzia takie jak Midjourney i Stable Diffusion są ważne, ale nie tylko dla projektantów; programiści mogą również korzystać z tych technologii do rozwijania aplikacji.
+- Przykład picthing pokazuje, jak generatywne AI może poprawić istniejące technologie, w tym usuwanie tła ze zdjęć.
+- Możliwości generowania obrazów znacznie poprawiły się od 2022 roku, chociaż pewne ograniczenia, jak generowanie tekstów czy złożonych elementów obrazu, nadal występują.
+- Im bardziej złożony prompt, tym mniejsze prawdopodobieństwo uzyskania zgodnego z oczekiwaniami rezultatu.
+- Jakość generowanych obrazów jest wysoka, ale osiągnięcie pożądanego efektu wymaga wielu prób.
+- Programiści mogą wykorzystać API takich jak Replicate lub Leonardo.ai do integracji generatywnej grafiki w swoich aplikacjach.
+- Przydatne jest korzystanie ze szablonów do generowania grafik, co znacząco ułatwia pracę w kontekście marketingowym.
+- Стworzony workflow w ComfyUI pozwala na dużą kontrolę nad procesem generowania grafik.
+- Generatywna grafika umożliwia tworzenie wielu formatów i spójnych obrazów zgodnych z marką.
+- Ważne jest, aby prompty były odpowiednio dostosowane, używając słów kluczowych i grafik referencyjnych.
+- Narzędzia takie jak htmlcsstoimage mogą zautomatyzować proces generowania grafik na podstawie HTML, otwierając nowe możliwości dla programistów.
+- Dzięki zastosowaniu generatywnej grafiki można zautomatyzować procesy marketingowe i produktowe, co przynosi korzyści w pracy twórczej.
