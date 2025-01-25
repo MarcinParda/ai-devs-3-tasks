@@ -4,7 +4,7 @@ import { openai } from './openai';
 export async function chatCompletion({
   systemPrompt,
   userPrompt,
-  model = 'gpt-4',
+  model = 'gpt-4o-mini',
   maxTokens = 256,
 }: {
   systemPrompt: string;

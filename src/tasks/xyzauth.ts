@@ -1,4 +1,4 @@
-import { chatComplition } from '../utils/chat_complition';
+import { chatCompletion } from '../utils/chat_completion';
 
 function extractQuestion(text: string) {
   // Define the regex pattern to match the question
@@ -58,7 +58,7 @@ const sendData = async (endpoint: string, data: Record<string, string>) => {
 
 const pageContent = await fetchData('');
 const question = extractQuestion(pageContent);
-const answer = await chatComplition({
+const answer = await chatCompletion({
   systemPrompt:
     'Answer the following question with number and number only, dont add any additional characters or dot at the end:',
   userPrompt: question,
