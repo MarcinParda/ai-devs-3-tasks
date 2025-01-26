@@ -14,7 +14,8 @@
     "kategorie": "bun src/tasks/kategorie/kategorie.ts",
     "arxiv": "bun src/tasks/arxiv/arxiv.ts",
     "dokumenty": "bun src/tasks/dokumenty/dokumenty.ts",
-    "wektory": "bun src/tasks/wektory/wektory.ts"
+    "wektory": "bun src/tasks/wektory/wektory.ts",
+    "database": "bun src/tasks/database/database.ts"
   },
   "keywords": [
     "ai",
