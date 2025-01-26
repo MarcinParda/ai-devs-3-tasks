@@ -13,7 +13,8 @@
     "robotid": "bun src/tasks/robotid/robotid.ts",
     "kategorie": "bun src/tasks/kategorie/kategorie.ts",
     "arxiv": "bun src/tasks/arxiv/arxiv.ts",
-    "dokumenty": "bun src/tasks/dokumenty/dokumenty.ts"
+    "dokumenty": "bun src/tasks/dokumenty/dokumenty.ts",
+    "wektory": "bun src/tasks/wektory/wektory.ts"
   },
   "keywords": [
     "ai",

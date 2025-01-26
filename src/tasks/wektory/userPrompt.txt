@@ -1,0 +1,1 @@
+W raporcie, z którego dnia znajduje się wzmianka o kradzieży prototypu broni? Podaj datę raportu w formacie RRRR-MM-DD. Podaj datę raportu, w którym wzmianka się znajduje, a nie datę wydarzenia. Zwróć datę raportu w podanym formacie i nic więcej, żadnych dodatkowych komentarzy czy interpunkcji.
