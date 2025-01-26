@@ -15,7 +15,8 @@
     "arxiv": "bun src/tasks/arxiv/arxiv.ts",
     "dokumenty": "bun src/tasks/dokumenty/dokumenty.ts",
     "wektory": "bun src/tasks/wektory/wektory.ts",
-    "database": "bun src/tasks/database/database.ts"
+    "database": "bun src/tasks/database/database.ts",
+    "loop": "bun src/tasks/loop/loop.ts"
   },
   "keywords": [
     "ai",
