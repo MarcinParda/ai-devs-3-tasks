@@ -17,7 +17,8 @@
     "wektory": "bun src/tasks/wektory/wektory.ts",
     "database": "bun src/tasks/database/database.ts",
     "loop": "bun src/tasks/loop/loop.ts",
-    "connections": "bun src/tasks/connections/connections.ts"
+    "connections": "bun src/tasks/connections/connections.ts",
+    "photos": "bun src/tasks/photos/photos.ts"
   },
   "keywords": [
     "ai",
