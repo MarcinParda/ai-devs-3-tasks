@@ -18,7 +18,8 @@
     "database": "bun src/tasks/database/database.ts",
     "loop": "bun src/tasks/loop/loop.ts",
     "connections": "bun src/tasks/connections/connections.ts",
-    "photos": "bun src/tasks/photos/photos.ts"
+    "photos": "bun src/tasks/photos/photos.ts",
+    "research": "bun src/tasks/research/research.ts"
   },
   "keywords": [
     "ai",
