@@ -19,7 +19,8 @@
     "loop": "bun src/tasks/loop/loop.ts",
     "connections": "bun src/tasks/connections/connections.ts",
     "photos": "bun src/tasks/photos/photos.ts",
-    "research": "bun src/tasks/research/research.ts"
+    "research": "bun src/tasks/research/research.ts",
+    "softo": "bun src/tasks/softo/softo.ts"
   },
   "keywords": [
     "ai",
