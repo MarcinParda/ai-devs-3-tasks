@@ -20,7 +20,8 @@
     "connections": "bun src/tasks/connections/connections.ts",
     "photos": "bun src/tasks/photos/photos.ts",
     "research": "bun src/tasks/research/research.ts",
-    "softo": "bun src/tasks/softo/softo.ts"
+    "softo": "bun src/tasks/softo/softo.ts",
+    "webhook": "bun src/tasks/webhook/webhook.ts"
   },
   "keywords": [
     "ai",
@@ -33,9 +34,12 @@
   "type": "module",
   "dependencies": {
     "@microsoft/tiktokenizer": "^1.0.9",
+    "@ngrok/ngrok": "^1.4.1",
+    "@types/express": "^5.0.0",
     "@types/jsdom": "^21.1.7",
     "@types/node": "^22.7.7",
     "@types/turndown": "^5.0.5",
+    "express": "^4.21.2",
     "glob": "^11.0.1",
     "jsdom": "^26.0.0",
     "openai": "^4.70.3",
