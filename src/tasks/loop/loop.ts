@@ -21,7 +21,7 @@ async function getPersonInfo(name: string) {
   return data.message;
 }
 
-async function getCityInfo(city: string) {
+export async function getCityInfo(city: string) {
   const body = { query: city, apikey: tasksApiKey };
   const response = await fetch(citiesUrl, {
     method: 'POST',
@@ -310,7 +310,7 @@ async function getAnswer2() {
   return answer.message;
 }
 
-bruteForce();
+// bruteForce();
 
 // main();
 // getCityInfo('WARSZAWA').then(console.log);

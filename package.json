@@ -21,7 +21,8 @@
     "photos": "bun src/tasks/photos/photos.ts",
     "research": "bun src/tasks/research/research.ts",
     "softo": "bun src/tasks/softo/softo.ts",
-    "webhook": "bun src/tasks/webhook/webhook.ts"
+    "webhook": "bun src/tasks/webhook/webhook.ts",
+    "gps": "bun src/tasks/gps/gps.ts"
   },
   "keywords": [
     "ai",

@@ -12,7 +12,7 @@ interface QueryData {
   query: string;
 }
 
-async function postToDatabase(data: QueryData) {
+export async function postToDatabase(data: QueryData) {
   try {
     const response = await fetch(databaseUrl, {
       method: 'POST',
@@ -112,4 +112,4 @@ async function main() {
   console.log(response);
 }
 
-main();
+// main();
